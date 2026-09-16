@@ -1,6 +1,6 @@
 {
- "version": "1.0.2",
- "url": "https://github.com/dlrmsdn9407/memo-release/releases/download/v1.0.2/memo.exe",
- "sha256": "2946ef2fedfc0c598569a928e4048081f0675773970133ea72976610520315a3",
- "notes": "코덱스 AI 연결 수정, 사용 설명서 추가, AI 요약 검색 반영, 손상 저장소 안내"
+ "version": "1.1.0",
+ "url": "https://github.com/dlrmsdn9407/memo-release/releases/download/v1.1.0/memo.exe",
+ "sha256": "a8d8d13cb6ac54c79c96003b26ad1fbb1c9d5c76566b86ae3ad83de544079068",
+ "notes": "캡처 속 글자 읽기, PDF 읽기, 주제별 정리, 문제 보내기, 무료 AI 연결"
 }
