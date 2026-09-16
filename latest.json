@@ -1,0 +1,6 @@
+{
+ "version": "1.0.0",
+ "url": "https://github.com/dlrmsdn9407/memo-release/releases/download/v1.0.0/memo.exe",
+ "sha256": "15f7c0b4ba85c582763cf6952f92f8aa19fa7f1ffed42229f323a56008182426",
+ "notes": "첫 배포 — 검색, 연관 찾기, 관계도, 마감 알람, 자동 백업"
+}
