@@ -1,6 +1,6 @@
 {
- "version": "1.3.0",
- "url": "https://github.com/dlrmsdn9407/memo-release/releases/download/v1.3.0/memo.exe",
- "sha256": "d03c715d6b7f4d5e25f7efc431518c9b133603327588bd47715764bb08498eb4",
- "notes": "열쇠를 각자 등록하는 구조로 변경(프로그램에 열쇠를 넣지 않음), 카카오톡 알림에 기록 내용 전체 전달, 글 속 주소를 누르면 열리는 링크로, 기록을 HTML 문서로 만들기, 텔레그램으로 보낸 것을 기록으로 받기, 백업을 안전하게"
+ "version": "1.3.1",
+ "url": "https://github.com/dlrmsdn9407/memo-release/releases/download/v1.3.1/memo.exe",
+ "sha256": "95d97ea4a4d3803033e336eab69886b07c4e1051349e75993f8cbe6c8f889c35",
+ "notes": "지운 기록을 7일간 되살리는 휴지통, 켤 때 오늘 할 일이 바로 보임, 링크 주소·파일 이름으로도 검색, 노트북 배터리에서도 알림 발송, 자동 업데이트 수정, 처음 쓸 때 백업·예약알림 자동 켜짐"
 }
